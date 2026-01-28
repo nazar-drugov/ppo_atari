@@ -13,3 +13,7 @@ Key components:
 
 ### Demo
 https://github.com/user-attachments/assets/d2c57a73-65a8-41e4-bf95-a373865cfc09
+
+### Credits
+I built this project while independently working through the ARENA curriculum on technical AI safety.\
+Many thanks to the ARENA team for creating the program and providing the .utils files used here!
