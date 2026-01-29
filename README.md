@@ -1,7 +1,7 @@
 # Proximal Policy Optimization (PPO) Implementation
 
 
-This module implements the PPO algorithm for reinforcement learning, supporting
+This repo implements the PPO algorithm for reinforcement learning, supporting
 Atari environments. I used this PPO implementation to train an agent to play Atari Breakout for 2,000,000 timesteps.
 
 Key components:
